@@ -74,5 +74,4 @@ Chaque modèle a été évalué selon :
 - **Courbe ROC/AUC**
 
 
-## 📂 3. Organisation du dépôt
 
